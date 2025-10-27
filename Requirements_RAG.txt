@@ -1,0 +1,36 @@
+# Core Requirements
+dotenv
+nltk
+tiktoken
+
+# Vector Database
+chromadb>=1.0.0
+faiss-cpu
+
+# Embedding Models
+sentence-transformers
+transformers
+
+# LLM Requirements
+torch==2.2.1
+torchvision==0.17.1
+torchaudio==2.2.1
+
+# Text Processing
+rank-bm25
+scikit-learn
+
+chromadb
+sentence-transformers
+transformers
+torch
+nltk
+tiktoken
+rank-bm25
+scikit-learn
+rouge-score
+datasets
+pandas
+numpy
+tqdm
+python-dotenv
